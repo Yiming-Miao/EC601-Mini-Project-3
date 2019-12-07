@@ -9,8 +9,9 @@ Android Studio is an Android integrated development tool launched by Google, bas
 
 ## My Demo Program:
 In HelloWorld folder, it's a demo using ios SWIFT to write a simple "helloworld" app.</br>
-![image](https://github.com/Yiming-Miao/EC601-Mini-Project-3/blob/master/REACT1.JPG)
+![image](https://github.com/Yiming-Miao/EC601-Mini-Project-3/blob/master/swift.png)
 In the link below, it's the project file of my REACT Native demo.</br>
-
 https://drive.google.com/open?id=19ayKusNvH1Z6Bo9heJ4_d4aZf1CGnn03</br>
+![image](https://github.com/Yiming-Miao/EC601-Mini-Project-3/blob/master/REACT1.JPG)
+![image](https://github.com/Yiming-Miao/EC601-Mini-Project-3/blob/master/REACT2.png)
 
